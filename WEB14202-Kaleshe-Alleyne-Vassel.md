@@ -8,7 +8,7 @@
 
 [Research](https://docs.google.com/document/d/1kySXIe7l8-EzidsU9BXup5KJyumsjxnIEsm5iXcJYrA/edit?usp=sharing)
 
-[Sketches]()
+[Sketches](https://drive.google.com/file/d/1WLp1FeLJh6WkJPMgLxa7-I5lyntPWcid/view?usp=sharing)
 
 [Logo](https://drive.google.com/drive/folders/0B0Qce533sIvYYzZjUWpSMGlGWXM?usp=sharing)
 
@@ -23,6 +23,8 @@
 [Summative](https://drive.google.com/open?id=1rr0LnqpyOEdJi81Z6s-mGT9WGiagYwRfvLJrzgvgvU0)
 
 # Image library
+
+[Research](https://drive.google.com/open?id=1zsMw3jatTJ26ilvtCqC74jDgq4uCB6RS)
 
 [Logo](https://drive.google.com/open?id=0B0Qce533sIvYRk9hWXh3QnZDR2s)
 
