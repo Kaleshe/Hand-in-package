@@ -10,35 +10,27 @@
 
 [Sketches]()
 
-## Graphics
-
 [Logo](https://drive.google.com/drive/folders/0B0Qce533sIvYYzZjUWpSMGlGWXM?usp=sharing)
 
 [Poster](https://drive.google.com/open?id=0B47qjEFtUd2lUXFsYTlOMVoxY2c)
 
-## Website
+[Website Section 1](https://drive.google.com/file/d/1XboSBduZPZJf9GDv7hCLhI2t-QI5M6gr/view?usp=sharing)
 
-[Section 1](https://drive.google.com/file/d/1XboSBduZPZJf9GDv7hCLhI2t-QI5M6gr/view?usp=sharing)
+[Website Section 2](https://drive.google.com/file/d/1fs5tRUQeupmex8ghQXIgaJ6PxSi_rmyO/view?usp=sharing)
 
-[Section 2](https://drive.google.com/file/d/1fs5tRUQeupmex8ghQXIgaJ6PxSi_rmyO/view?usp=sharing)
-
-[Section 3](https://drive.google.com/file/d/1QbRjwBXx4m7CZHpa9h-wmjSdQmp6NR0c/view?usp=sharing)
+[Website Section 3](https://drive.google.com/file/d/1QbRjwBXx4m7CZHpa9h-wmjSdQmp6NR0c/view?usp=sharing)
 
 [Summative](https://drive.google.com/open?id=1rr0LnqpyOEdJi81Z6s-mGT9WGiagYwRfvLJrzgvgvU0)
 
 # Image library
 
-## Graphics 
-
 [Logo](https://drive.google.com/open?id=0B0Qce533sIvYRk9hWXh3QnZDR2s)
 
-## Pricing
+[Pricing](https://drive.google.com/open?id=13NQda_R2MH_L_pRmO7zkyrRbqQGfUMTJ)
 
-[Prints Pricing](https://drive.google.com/open?id=13NQda_R2MH_L_pRmO7zkyrRbqQGfUMTJ)
+[Website](http://linear.raveweb.net)
 
-## Website
-
-[Linear](http://linear.raveweb.net)
+[Summative](https://docs.google.com/presentation/d/1qtEUPh511F_LsMwTIXFZyCnI8anxid97Aa1M9pUGz6o/edit?usp=sharing)
 
 # Blogs 
 [Week 1: What is the biggest challenge with teamwork?](https://medium.com/@kaleshe/what-is-the-biggest-challenge-with-teamwork-f6b297c031fa)
