@@ -1,15 +1,44 @@
 # Hand-in-package
 
 # Change by Design
-[Research]()
+
+[Photography moodboard](https://drive.google.com/open?id=0BxEIYQm_4TdGdEJTRWtCOFI1MDg)
+
+[Brand Board](https://drive.google.com/open?id=0B0Qce533sIvYNUR6WHA3QTJtSHc)
+
+[Research](https://docs.google.com/document/d/1kySXIe7l8-EzidsU9BXup5KJyumsjxnIEsm5iXcJYrA/edit?usp=sharing)
 
 [Sketches]()
 
-[Logo]()
+## Graphics
 
-[Website Design]()
+[Logo](https://drive.google.com/drive/folders/0B0Qce533sIvYYzZjUWpSMGlGWXM?usp=sharing)
+
+[Poster](https://drive.google.com/open?id=0B47qjEFtUd2lUXFsYTlOMVoxY2c)
+
+## Website
+
+[Section 1](https://drive.google.com/file/d/1XboSBduZPZJf9GDv7hCLhI2t-QI5M6gr/view?usp=sharing)
+
+[Section 2](https://drive.google.com/file/d/1fs5tRUQeupmex8ghQXIgaJ6PxSi_rmyO/view?usp=sharing)
+
+[Section 3](https://drive.google.com/file/d/1QbRjwBXx4m7CZHpa9h-wmjSdQmp6NR0c/view?usp=sharing)
+
+[Summative](https://drive.google.com/open?id=1rr0LnqpyOEdJi81Z6s-mGT9WGiagYwRfvLJrzgvgvU0)
 
 # Image library
+
+## Graphics 
+
+[Logo](https://drive.google.com/open?id=0B0Qce533sIvYRk9hWXh3QnZDR2s)
+
+## Pricing
+
+[Prints Pricing](https://drive.google.com/open?id=13NQda_R2MH_L_pRmO7zkyrRbqQGfUMTJ)
+
+## Website
+
+[Linear](http://linear.raveweb.net)
 
 # Blogs 
 [Week 1: What is the biggest challenge with teamwork?](https://medium.com/@kaleshe/what-is-the-biggest-challenge-with-teamwork-f6b297c031fa)
