@@ -1,6 +1,10 @@
 # Hand-in-package
 
+[Peer-learning](https://docs.google.com/presentation/d/1zYZc-AV5cNNsRAY-m6Sr0glzQPTzI6-RMCr2Z_Je8hI/edit?usp=sharing)
+
 [Prototype](https://docs.google.com/presentation/d/1Lb9LsBuam3v2KLmlJ222IViuk9SYQBlFYZ0RtZQstFg/edit?usp=sharing)
+
+[?](https://docs.google.com/document/d/1CDJE2QNcYiGUoUTlibPkoYsCOIweuhpM8tPEtCSSmY8/edit?usp=sharing)
 
 
 # Blogs 
