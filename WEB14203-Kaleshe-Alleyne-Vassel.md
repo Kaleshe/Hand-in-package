@@ -16,10 +16,10 @@
 
 [Week 4: What is your biggest learning so far from this project? Create your own title!](https://medium.com/@kaleshe/creating-a-workshop-is-hard-1ac5b6a7aa5e)
 
-[Week 5: Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@kaleshe/how-ive-become-a-better-team-worker-14c35244dcfb)
+[Week 5: Pair up with another person (not your team mate) and give each other feedback on your peer learning mini-lessons.](https://medium.com/@kaleshe/peer-lesson-feedback-fc4065a8524)
 
-[Week 6: Watch: The best interface is no interface](https://medium.com/@kaleshe/strengths-and-weaknesses-in-relation-to-completing-this-project-and-addressing-them-3108d7d648c2)
+[Week 6: Watch: The best interface is no interface](https://medium.com/@kaleshe/thoughts-on-the-best-interface-is-no-interface-947132e7cd71)
 
-[Week 7: WTF is an API?](https://medium.com/@kaleshe/using-seo-to-extend-the-reach-of-the-image-library-82c891092726)
+[Week 7: WTF is an API?](https://medium.com/@kaleshe/wtf-is-an-api-7d4d3ea996f)
 
-[Week 8: Reflect on this project as a whole](https://medium.com/@kaleshe/exploring-good-examples-of-good-social-media-marketing-cc8382266ae5)
+[Week 8: Reflect on this project as a whole](https://medium.com/@kaleshe/this-project-as-a-whole-199b34b6aedd)
