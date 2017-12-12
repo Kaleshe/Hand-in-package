@@ -2,10 +2,11 @@
 
 [Peer-learning](https://docs.google.com/presentation/d/1zYZc-AV5cNNsRAY-m6Sr0glzQPTzI6-RMCr2Z_Je8hI/edit?usp=sharing)
 
-[Prototype](https://docs.google.com/presentation/d/1Lb9LsBuam3v2KLmlJ222IViuk9SYQBlFYZ0RtZQstFg/edit?usp=sharing)
+[Formative](https://docs.google.com/presentation/d/1Lb9LsBuam3v2KLmlJ222IViuk9SYQBlFYZ0RtZQstFg/edit?usp=sharing)
 
-[?](https://docs.google.com/document/d/1CDJE2QNcYiGUoUTlibPkoYsCOIweuhpM8tPEtCSSmY8/edit?usp=sharing)
+[Summative](https://docs.google.com/presentation/d/1YfiCkGPeA9sM5F1XZpO1vH8JhMBJEmmkem6-E_y0_mk/edit?usp=sharing)
 
+[APP](http://kaleshe.github.io/hidden-tags/)
 
 # Blogs 
 [Week 1: What can be some of the challenges when running a workshop?](https://medium.com/@kaleshe/what-can-be-some-of-the-challenges-when-running-a-workshop-427c33dd6360)
