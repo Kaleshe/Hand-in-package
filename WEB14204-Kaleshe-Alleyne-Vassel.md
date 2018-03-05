@@ -20,11 +20,11 @@
 
 [Prototypes](https://docs.google.com/document/d/1bh4ALd-oHHR_VWr83-pqzrHrerwfglR6iVbxgfGZzkI/edit?usp=drivesdk)
 
-[Concept Video](http://kaleshe.github.io/hidden-tags/)
+[Concept Video](https://drive.google.com/a/students.rave.ac.uk/file/d/1-vyAtbJ8az_6d7s7ooRDnEa6B_dKJP16/view?usp=drivesdk)
 
 [User-testing Report](https://docs.google.com/document/d/10XTRtvtN9dxjEixhh4GfBgvasZvuu_FwD_-VOuTGi6s/edit?usp=drivesdk)
 
-[Formative Presentation](http://kaleshe.github.io/hidden-tags/)
+[Formative Presentation](https://docs.google.com/presentation/d/1iEd9VAMi6xW6I0vGOoHr8T5VZ9hP4UmLL5p6qJPtKaA/edit?usp=drivesdk)
 
 # Blogs
 
