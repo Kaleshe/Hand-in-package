@@ -1,6 +1,6 @@
 # Hand-in-package
 
-[Competitor Analysis](https://docs.google.com/document/d/195vwPLeWlqtgGRtth2Eomth93Cjp7H1Ul4fz63T4HIA/edit?usp=drivesdk)
+[Competitor Analysis](https://medium.com/@kaleshe/a-little-bit-of-inspiration-66b13583e0dc)
 
 [Elevator Pitch](https://docs.google.com/document/d/10fw7uqbyrozNPWkDUQQnTuzk-2Vh_807DxXVvHo21D8/edit?usp=drivesdk)
 
