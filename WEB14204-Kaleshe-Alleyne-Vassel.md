@@ -1,14 +1,14 @@
 # Hand-in-package
 
-[Competitor Analysis](https://drive.google.com/file/d/1GQ7gpLBafEwaeYYXZuK5yisIvUpR4rU4/view?usp=sharing)
+[Competitor Analysis](https://docs.google.com/document/d/195vwPLeWlqtgGRtth2Eomth93Cjp7H1Ul4fz63T4HIA/edit?usp=drivesdk)
 
-[Elevator Pitch](https://docs.google.com/presentation/d/1zYZc-AV5cNNsRAY-m6Sr0glzQPTzI6-RMCr2Z_Je8hI/edit?usp=sharing)
+[Elevator Pitch](https://docs.google.com/document/d/10fw7uqbyrozNPWkDUQQnTuzk-2Vh_807DxXVvHo21D8/edit?usp=drivesdk)
 
 [Concept one-pager](https://docs.google.com/presentation/d/1Lb9LsBuam3v2KLmlJ222IViuk9SYQBlFYZ0RtZQstFg/edit?usp=sharing)
 
-[Experience Map](https://docs.google.com/presentation/d/1YfiCkGPeA9sM5F1XZpO1vH8JhMBJEmmkem6-E_y0_mk/edit?usp=sharing)
+[Experience Map](https://drive.google.com/a/students.rave.ac.uk/file/d/1CotkS_RTEk8YsDvyCIsYgO31TMeV5EJE/view?usp=drivesdk)
 
-[User Personas](http://kaleshe.github.io/hidden-tags/)
+[User Personas](https://docs.google.com/document/d/1_fN_lgLeZVDB7QFX9SiZhgyzjyH9uabqGMk_z0f5EbA/edit?usp=drivesdk)
 
 ## Wireframes
 
@@ -18,11 +18,11 @@
 
 [Part 3](https://drive.google.com/file/d/1wW6bXi-NoZGmcUHogCkTPDvdCQvhAtam/view?usp=sharing)
 
-[Prototypes](http://kaleshe.github.io/hidden-tags/)
+[Prototypes](https://docs.google.com/document/d/1bh4ALd-oHHR_VWr83-pqzrHrerwfglR6iVbxgfGZzkI/edit?usp=drivesdk)
 
 [Concept Video](http://kaleshe.github.io/hidden-tags/)
 
-[User-testing Report](http://kaleshe.github.io/hidden-tags/)
+[User-testing Report](https://docs.google.com/document/d/10XTRtvtN9dxjEixhh4GfBgvasZvuu_FwD_-VOuTGi6s/edit?usp=drivesdk)
 
 [Formative Presentation](http://kaleshe.github.io/hidden-tags/)
 
